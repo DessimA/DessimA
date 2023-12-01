@@ -1,6 +1,6 @@
 ### Olá! Eu sou o José Anderson 🖐🏼
 
-<p style='text-align: justify;'> Sou um graduando em Sistemas da Informação prestes a concluir meu curso. Atualmente, estou em busca da minha primeira oportunidade profissional e estou aberto a aprender e me aprimorar constantemente. Tenho um forte interesse em novas tecnologias e abordo as situações de maneira calma e ponderada. Embora eu seja alguém de poucas palavras, mantenho uma atitude receptiva e trato todos com cordialidade. É importante mencionar que enfrento o desafio do autismo leve, o que pode influenciar minha interação social, mas isso não afeta minha dedicação e comprometimento. Estou ansioso para contribuir e crescer na área de tecnologia. </p>
+Sou um graduando em Sistemas da Informação prestes a concluir meu curso. Atualmente, estou em busca da minha primeira oportunidade profissional e estou aberto a aprender e me aprimorar constantemente. Tenho um forte interesse em novas tecnologias e abordo as situações de maneira calma e ponderada. Embora eu seja alguém de poucas palavras, mantenho uma atitude receptiva e trato todos com cordialidade. É importante mencionar que enfrento o desafio do autismo leve, o que pode influenciar minha interação social, mas isso não afeta minha dedicação e comprometimento. Estou ansioso para contribuir e crescer na área de tecnologia.
 
 
 <center>
