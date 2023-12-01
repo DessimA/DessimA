@@ -30,6 +30,10 @@
 
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&layout=donut)](https://github.com/dessima/github-readme-stats)
+
+
+
 ## Sistemas operacionais que utilizo 💻📱
 
 <div style="display: inline_block"><br/>
@@ -37,6 +41,4 @@
      <img alingn="center" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />   
      <img alingn="center" alt="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />  
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&layout=donut)](https://github.com/dessima/github-readme-stats)
 
