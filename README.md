@@ -1,6 +1,9 @@
 ### Olá! Eu sou o José Anderson 🖐🏼
 
-##### Sou um graduando em Sistemas da Informação prestes a concluir meu curso. Atualmente, estou em busca da minha primeira oportunidade profissional e estou aberto a aprender e me aprimorar constantemente. Tenho um forte interesse em novas tecnologias e abordo as situações de maneira calma e ponderada. Embora eu seja alguém de poucas palavras, mantenho uma atitude receptiva e trato todos com cordialidade. É importante mencionar que enfrento o desafio do autismo leve, o que pode influenciar minha interação social, mas isso não afeta minha dedicação e comprometimento. Estou ansioso para contribuir e crescer na área de tecnologia.
+<p style='text-align: justify;'> Sou um graduando em Sistemas da Informação prestes a concluir meu curso. Atualmente, estou em busca da minha primeira oportunidade profissional e estou aberto a aprender e me aprimorar constantemente. Tenho um forte interesse em novas tecnologias e abordo as situações de maneira calma e ponderada. Embora eu seja alguém de poucas palavras, mantenho uma atitude receptiva e trato todos com cordialidade. É importante mencionar que enfrento o desafio do autismo leve, o que pode influenciar minha interação social, mas isso não afeta minha dedicação e comprometimento. Estou ansioso para contribuir e crescer na área de tecnologia. </p>
+
+
+<center>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-anderson-da-silva-costa-497a36163/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/baSz4k39Hq)
 
@@ -26,8 +29,6 @@
     <img alingn="center" alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />        
     <img alingn="center" alt="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alingn="center" alt="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-   
-
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&layout=donut)](https://github.com/dessima/github-readme-stats)
@@ -41,4 +42,5 @@
      <img alingn="center" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />   
      <img alingn="center" alt="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />  
 </div>
-
+ 
+ </center>
