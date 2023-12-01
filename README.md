@@ -32,7 +32,7 @@
     <img alingn="center" alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />        
     <img alingn="center" alt="" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alingn="center" alt="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+</div></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&theme=compact&locale=pt-br&bg_color=0d1117&text_color=acb8c0&title_color=4b8dd9&card_width=625em)](https://github.com/dessima/github-readme-stats)
 
