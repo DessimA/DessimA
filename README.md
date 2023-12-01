@@ -9,7 +9,7 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-anderson-da-silva-costa-497a36163/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/baSz4k39Hq)
 
-![DessimA GitHub stats](https://github-readme-stats.vercel.app/api?username=dessima&show_icons=true&theme=github_dark )
+![DessimA GitHub stats](https://github-readme-stats.vercel.app/api?username=dessima&show_icons=true&theme=github_dark&locale=pt-br&hide_rank=true )
 
 ## Tecnologias que tenho interesse 🤩
 
@@ -34,7 +34,7 @@
     <img alingn="center" alt="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&compact)](https://github.com/dessima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&theme=compact&locale=pt-br&bg_color=0d1117&text_color=acb8c0&title_color=4b8dd9&card_width=625em)](https://github.com/dessima/github-readme-stats)
 
 
 
