@@ -1,7 +1,7 @@
-### Olá! Eu sou o José Anderson 🖐🏼
+### Hi! I'm José Anderson 🖐🏼
+> I'm an Information Systems student nearing graduation. Currently, I'm searching for my first professional opportunity and am always eager to learn and enhance my skills. I have a strong interest in new technologies and approach challenges with a calm and thoughtful demeanor. While reserved, I maintain a receptive attitude and treat everyone with courtesy.
 
->Sou um estudante de bacharelado em Sistemas de Informação que está prestes a concluir o curso. Atualmente, estou procurando minha primeira oportunidade profissional e estou sempre aberto a aprender e melhorar minhas habilidades. Tenho um grande interesse por novas tecnologias e enfrento as situações com calma e ponderação. Embora eu seja uma pessoa reservada, mantenho uma atitude receptiva e trato todos com cortesia.
->>É importante destacar que enfrento o desafio do autismo leve, o que pode afetar minha interação social, mas isso não compromete minha dedicação e compromisso. Estou ansioso para contribuir e crescer na área de tecnologia.
+>> For transparency, I want to mention that I am on the autism spectrum (Level 1), which may subtly influence my social interactions. However, this does not affect my dedication and commitment. I'm eager to contribute and grow professionally within the technology field.
 
 
 
@@ -9,9 +9,9 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-anderson-da-silva-costa-497a36163/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/baSz4k39Hq)
 
-![DessimA GitHub stats](https://github-readme-stats.vercel.app/api?username=dessima&show_icons=true&theme=github_dark&locale=pt-br&hide_rank=true )
+![DessimA GitHub stats](https://github-readme-stats.vercel.app/api?username=dessima&show_icons=true&theme=github_dark&locale=en&hide_rank=true )
 
-## Tecnologias que tenho interesse 🤩
+## Technologies of Interest 🤩
 
 <div style="display: inline_block"><br/>
     <img alingn="center" alt="" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />    
@@ -34,11 +34,11 @@
     <img alingn="center" alt="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&theme=compact&locale=pt-br&bg_color=0d1117&text_color=acb8c0&title_color=4b8dd9&card_width=625em)](https://github.com/dessima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&theme=compact&locale=en&bg_color=0d1117&text_color=acb8c0&title_color=4b8dd9&card_width=625em)](https://github.com/dessima/github-readme-stats)
 
 
 
-## Sistemas operacionais que utilizo 💻📱
+## Operating Systems I Use 💻📱
 
 <div style="display: inline_block"><br/>
     <img alingn="center" alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />    
