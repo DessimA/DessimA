@@ -69,7 +69,6 @@
 <div align="center">
   
   <!-- GitHub Stats com Tema Personalizado -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dessima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=10"/>
   
