@@ -12,7 +12,7 @@
 
 ---
 
-## Stack Tecnológica
+## Tecnológias
 
 <div align="center">
 
