@@ -10,10 +10,6 @@
 
 </div>
 
----
-
-## Tecnológias
-
 <div align="center">
 
 ### Backend (Foco Principal)
