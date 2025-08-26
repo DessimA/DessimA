@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- Animação de Digitação -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Jos%C3%A9+Anderson+%F0%9F%91%8B;Desenvolvedor+Backend;Java+%7C+Spring+Boot+%7C+Docker;Transformando+Ideias+em+C%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=f1c232&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Jos%C3%A9+Anderson+%F0%9F%91%8B;Desenvolvedor+Backend;Java+%7C+Spring+Boot+%7C+Docker;Transformando+Ideias+em+C%C3%B3digo" alt="Typing SVG" />
   
   <!-- Banner Profissional -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Desenvolvedor%20Backend&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,17&height=180&section=header&text=Desenvolvedor%20Backend&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
   
 </div>
 
