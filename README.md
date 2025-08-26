@@ -10,6 +10,18 @@
 
 </div>
 
+## Perfil Profissional
+
+**Desenvolvedor Backend** com formação superior em Sistemas de Informação e perfil altamente adaptável. **4+ anos** de experiência como Consultor de TI, **78 certificações técnicas** e paixão por aprender novas tecnologias.
+
+### Principais Características
+- 🧠 **Fast Learner** - Absorve rapidamente novas tecnologias
+- 🔍 **Curioso** - Sempre explorando tecnologias emergentes (IA, automação)
+- 📊 **Analítico** - Background sólido em consultoria e análise de sistemas
+- 🤝 **Colaborativo** - Excelente comunicação e trabalho em equipe
+
+---
+
 <div align="center">
 
 ### Backend (Foco Principal)
@@ -24,18 +36,6 @@
 **Tecnologias Emergentes:** 🤖 Inteligência Artificial • ⚙️ n8n Automação • 🔧 DevOps
 
 </div>
-
----
-
-## Perfil Profissional
-
-**Desenvolvedor Backend** com formação superior em Sistemas de Informação e perfil altamente adaptável. **4+ anos** de experiência como Consultor de TI, **78 certificações técnicas** e paixão por aprender novas tecnologias.
-
-### Principais Características
-- 🧠 **Fast Learner** - Absorve rapidamente novas tecnologias
-- 🔍 **Curioso** - Sempre explorando tecnologias emergentes (IA, automação)
-- 📊 **Analítico** - Background sólido em consultoria e análise de sistemas
-- 🤝 **Colaborativo** - Excelente comunicação e trabalho em equipe
 
 ---
 
