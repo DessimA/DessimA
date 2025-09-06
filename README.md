@@ -87,6 +87,7 @@
 <img src="https://duolingo-stats-card.vercel.app/api?username=JDessim" alt="Duolingo Stats"/>
   
 </div>
+
 ---
 
 ## Oportunidades de Interesse
