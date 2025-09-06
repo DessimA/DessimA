@@ -81,6 +81,12 @@
 
 ---
 
+## Duolingo Stats
+
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=JDessim)
+
+---
+
 ## Oportunidades de Interesse
 
 <div align="center">
