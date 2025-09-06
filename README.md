@@ -74,8 +74,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dessima&show_icons=true&theme=default&hide_border=true&title_color=2C3E50&text_color=2C3E50&icon_color=42B883&bg_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=2C3E50&text_color=2C3E50&bg_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dessima&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -84,7 +84,7 @@
 ## Duolingo Stats
 <div align="center">
   
-<img src="https://duolingo-stats-card.vercel.app/api?username=JDessim" alt="Duolingo Stats"/>
+<img src="https://duolingo-stats-card.vercel.app/api?username=JDessim&theme=dark" alt="Duolingo Stats"/>
   
 </div>
 
