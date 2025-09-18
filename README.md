@@ -1,4 +1,6 @@
-![header](header_dev.gif)
+<div align="center">
+<img src="header_dev.gif" alt="header" width="50%"/>
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+Java;Bacharel+em+Sistemas+de+Informação;Java+•+Spring+Boot+•+Docker+•+IA;Fast+Learner+•+Altamente+Adaptável" alt="Typing SVG" />
