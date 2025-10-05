@@ -75,7 +75,7 @@ Desenvolvedor Full-Stack com **dupla especialização** em **React/Node.js** e *
 <td width="50%" align="center" style="border: none; border-right: 2px solid #ddd; padding-right: 20px;">
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; min-height: 400px; display: flex; flex-direction: column; justify-content: space-between;">
 
-<img src="https://huawei.ifce.edu.br/images/IFCE_LOGO_DEITADO_EDIT.png" alt="Logo IFCE" width="280">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Instituto_Federal_Marca_2015.svg/1200px-Instituto_Federal_Marca_2015.svg.png" alt="Logo IFCE" width="85">
 
 <h3 style="color: white; margin: 20px 0 10px 0;">Bacharelado em Sistemas de Informação</h3>
 
@@ -86,7 +86,7 @@ Formação sólida em Análise de Sistemas, Lógica e Desenvolvimento Web.
 <div style="margin-top: 20px;">
 <p style="color: white; font-weight: bold; margin: 5px 0;">Instituto Federal do Ceará (IFCE)</p>
 <p style="color: #e0e0e0; font-size: 13px; margin: 5px 0;">Jan 2017 – Abr 2025</p>
-<p style="background: rgba(255,255,255,0.2); color: white; padding: 5px 15px; border-radius: 20px; display: inline-block; font-size: 12px; margin-top: 10px;">✓ Concluído</p>
+<p style="background: rgba(255,255,255,0.2); color: white; padding: 5px 15px; border-radius: 20px; display: inline-block; font-size: 12px; margin-top: 10px;">✅ Concluído</p>
 </div>
 
 </div>
@@ -105,7 +105,7 @@ Focado em APIs RESTful com Spring Boot, persistência de dados, arquitetura de m
 
 <div style="margin-top: 20px;">
 <p style="color: white; font-weight: bold; margin: 5px 0;">Oracle Next Education (ONE)</p>
-<p style="color: #e0e0e0; font-size: 13px; margin: 5px 0;">2025 – Cursando</p>
+<p style="color: #e0e0e0; font-size: 13px; margin: 5px 0;">Ago 2025 – Cursando</p>
 <p style="background: rgba(255,255,255,0.2); color: white; padding: 5px 15px; border-radius: 20px; display: inline-block; font-size: 12px; margin-top: 10px;">⏳ Em Andamento</p>
 </div>
 
