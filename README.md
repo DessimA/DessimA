@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;React+•+Node.js+•+Spring+Boot;Disponível+para+Trabalho+Remoto" alt="Typing SVG" />
 
-**📍 Cedro, CE | 🌐 100% Remoto | 💼 Disponibilidade Imediata**
+**📍 Ceará, Brasil | 🌐 100% Remoto | 💼 Disponibilidade Imediata**
 
 [![Contatos](https://img.shields.io/badge/💬_Entre_em_Contato-42B883?style=for-the-badge)](https://meus-links-olive.vercel.app/)
 
