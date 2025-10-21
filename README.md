@@ -95,7 +95,6 @@ Atualmente, foco em **soluções escaláveis, cloud-native e orientadas a dados*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessima&theme=synthwave&show_icons=true&layout=compact)](https://github.com/dessima)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dessima&theme=synthwave)](https://git.io/streak-stats)
 
 </div>
 
