@@ -73,7 +73,7 @@ Atualmente, foco em **soluções escaláveis, cloud-native e orientadas a dados*
 
 ### ☕ **Especialização Backend Java + Spring Boot**  
 **Oracle Next Education (ONE) + Alura**  
-📅 *2024 – Em andamento*
+📅 *2025 – Em andamento*
 
 > APIs RESTful, segurança com Spring Security, JPA/Hibernate, microsserviços e Oracle Cloud Infrastructure.
 
