@@ -1,5 +1,3 @@
-# 💻 José Anderson da Silva Costa
-
 <div align="center">
   <img src="header_dev.gif" alt="Header" width="55%" />
   <br><br>
