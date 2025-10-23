@@ -2,30 +2,32 @@
   <img src="header_dev.gif" alt="Header" width="55%" />
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java;Spring+Boot+•+Microserviços;AWS+•+Oracle+Cloud+•+IA;Docker+•+DevOps+•+API+REST;Disponível+para+Trabalho+Remoto" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Java+%7C+Spring+Boot+%7C+React;AWS+%7C+Docker+%7C+DevOps;Dispon%C3%ADvel+para+Trabalho+Remoto)](https://git.io/typing-svg)
 
-  **📍 Ceará, Brasil | 🌐 100% Remoto | 💼 Disponibilidade Imediata**
-  
-  <br>
-  <a href="https://meus-links-olive.vercel.app/">
-    <img src="https://img.shields.io/badge/💬_Entre_em_Contato-42B883?style=for-the-badge">
-  </a>
+**📍 Ceará, Brasil | 🌐 100% Remoto | 💼 Disponibilidade Imediata**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dessim)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.anderson.sc.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-42B883?style=for-the-badge&logo=vercel&logoColor=white)](https://meus-links-olive.vercel.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dessima&label=Visualiza%C3%A7%C3%B5es&color=42B883&style=flat-square)
+
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Desenvolvedor Backend Java**, especialista em **Spring Boot, Microserviços e Arquitetura de Software**, com **8+ anos de experiência técnica** e **4+ anos como Analista de Sistemas**.  
-Atualmente, foco em **soluções escaláveis, cloud-native e orientadas a dados**, explorando **AWS, Oracle Cloud, Python e Inteligência Artificial**.
+Desenvolvedor de software com formação em **Sistemas de Informação (IFCE)** e especialização em **Java/Spring Boot** e **AWS**. Experiência prática em desenvolvimento backend, arquitetura de APIs REST e soluções cloud-native.
 
-💡 **Destaques técnicos:**
+💡 **Foco atual:**
 - 🧠 **Backend:** Java | Spring Boot | APIs REST | Microserviços  
-- ☁️ **Cloud & DevOps:** AWS | Oracle Cloud | Docker | CI/CD | IaC  
-- 🤖 **IA & Automação:** AWS AI Services | Python | Linux  
-- 💾 **Banco de Dados:** PostgreSQL | MySQL | Query Tuning  
-- 📈 **Visão Analítica:** Arquitetura, refatoração e melhoria de performance  
-- 🔁 **Aprendizado Contínuo:** Sempre explorando novas tecnologias  
+- ☁️ **Cloud & DevOps:** AWS | Docker | CI/CD | Linux  
+- 🎨 **Frontend:** React | Next.js | TypeScript  
+- 💾 **Database:** PostgreSQL | MySQL  
+- 🔁 **Aprendizado Contínuo:** AWS re/Start + Oracle Next Education
+
+🎯 **Buscando oportunidade júnior/pleno** para aplicar conhecimentos técnicos e contribuir com soluções escaláveis em ambiente colaborativo.
 
 ---
 
