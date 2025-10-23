@@ -135,6 +135,7 @@ Desenvolvedor de software com formação em **Sistemas de Informação (IFCE)** 
 
 **Funções:** Backend Developer • Java Developer • Cloud Developer • DevOps Engineer  
 **Modalidades:** Remoto | Híbrido | Presencial  
+
 **Disponibilidade:** Imediata  
 
 <a href="https://meus-links-olive.vercel.app/">
