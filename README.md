@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="header_dev.gif" alt="Header" width="55%" />
-  <br><br>
-
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Java+%7C+Spring+Boot+%7C+React;AWS+%7C+Docker+%7C+DevOps;Dispon%C3%ADvel+para+Trabalho+Remoto)](https://git.io/typing-svg)
 
 **📍 Ceará, Brasil | 🌐 100% Remoto | 💼 Disponibilidade Imediata**
