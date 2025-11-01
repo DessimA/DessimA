@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Anderson Silva
+# 🧔 Olá sou o José Anderson! 🤙
 
 ### Transformando ideias em soluções digitais
 
@@ -15,7 +15,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.anderson.sc.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://meus-links-olive.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dessima&label=Visualiza%C3%A7%C3%B5es&color=B85042&style=flat-square)
 
 </div>
 
@@ -36,6 +35,10 @@ Desenvolvedor de software especializado em criar **sistemas escaláveis e cloud-
 
 ### 🎯 Expertise
 
+---
+
+<div align="center">
+  
 <table>
 <tr>
 <td width="50%">
@@ -82,6 +85,8 @@ Desenvolvedor de software especializado em criar **sistemas escaláveis e cloud-
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
