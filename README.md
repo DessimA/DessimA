@@ -1,11 +1,11 @@
 <div align="center">
 
 # 🧔 José Anderson  
-### Desenvolvedor Backend Java | Cloud AWS | Arquitetura de Software
+### Desenvolvedor Backend Java Júnior | Cloud AWS | Arquitetura de Software
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=1000&color=B85042&center=true&vCenter=true&width=650&lines=Backend+Java+%7C+Spring+Boot;Cloud+Computing+%7C+AWS;APIs+REST+%7C+Arquitetura+Limpa;Soluções+Escaláveis+e+Bem+Projetadas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=1000&color=B85042&center=true&vCenter=true&width=650&lines=Backend+Java+%7C+Spring+Boot;Cloud+Computing+%7C+AWS;Microsserviços+%7C+Docker;Soluções+Escaláveis+e+Bem+Projetadas" />
 
-**📍 Ceará, Brasil** • **🌐 Remoto** • **💻 Foco em Arquitetura Backend & Cloud**
+**📍 Ceará, Brasil** • **🌐 Disponível para Remoto** • **💻 Foco em Arquitetura Backend & Cloud**
 
 <br>
 
@@ -20,18 +20,28 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou desenvolvedor especializado em **Backend com Java e Spring Boot**, com forte direcionamento para **Cloud Computing (AWS)** e boas práticas de engenharia.  
-Minha atuação se concentra em projetar **APIs robustas, escaláveis e organizadas**, utilizando princípios modernos como **Clean Architecture, Design Patterns e testes automatizados**.
+Sou **Desenvolvedor de Software graduado** em Sistemas de Informação (IFCE), especializado em **Backend com Java e Spring Boot**. 
 
-Tenho experiência prática na construção de aplicações completas — do backend ao deploy — unindo:
+Atualmente, dedico-me a unir o desenvolvimento robusto de software com a escalabilidade da **Cloud Computing (AWS)**.
 
-- Arquitetura limpa e modular  
-- Cloud AWS para infraestrutura  
-- Docker para padronização de ambiente  
-- Automação moderna com GitHub Actions  
-- Frontend como apoio (React/Next.js)
+Diferente do padrão iniciante, meus estudos e projetos focam em **Engenharia de Software real**:
+- 🔄 **Refatoração:** Migração de monólitos para arquitetura de microsserviços.
+- 🐳 **Containerização:** Padronização de ambientes com Docker.
+- ☁️ **Cloud Native:** Infraestrutura na AWS e automação com CI/CD.
+- 📐 **Qualidade:** Clean Architecture, SOLID e Testes Automatizados.
 
-Construo soluções com foco em qualidade, segurança e clareza técnica.
+Busco minha primeira oportunidade formal como **Desenvolvedor Júnior**, trazendo a maturidade técnica de quem documenta, testa e projeta antes de codificar.
+
+---
+
+## 🏆 Certificações & Badges
+
+<div align="center">
+  <!-- Substitua os links abaixo pelos links públicos dos seus badges no Credly se tiver -->
+  <img src="https://img.shields.io/badge/AWS-Cloud_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Essentials">
+  <img src="https://img.shields.io/badge/AWS-Data_Migration-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Data Migration">
+  <img src="https://img.shields.io/badge/Oracle-Backend_Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle ONE">
+</div>
 
 ---
 
@@ -44,114 +54,103 @@ Construo soluções com foco em qualidade, segurança e clareza técnica.
 <td width="50%">
 
 ### 🔧 Backend & Arquitetura
-- Java 17 • Spring Boot  
-- APIs RESTful  
-- Spring Security (JWT)
+- Java 17+ • Spring Boot 3  
+- APIs RESTful • Microsserviços
+- Spring Security (JWT/OAuth2)
 - JPA/Hibernate • PostgreSQL
 - Clean Architecture • SOLID  
 - JUnit 5 • Mockito  
-- Maven • Design Patterns  
+- Documentação com Mermaid  
 
 </td>
 <td width="50%">
 
 ### ☁️ Cloud & DevOps
-- AWS: EC2, S3, RDS, IAM, VPC  
-- Deploy de APIs na nuvem  
+- AWS: EC2, S3, RDS, IAM  
 - Docker & Docker Compose  
 - GitHub Actions (CI/CD)  
 - Linux • Shell Script  
-- Monitoramento e Logs Básicos  
+- Migração de Dados  
+- Observabilidade Básica  
 </td>
 </tr>
 
 <tr>
 <td width="50%">
 
-### 🎨 Frontend (apoio técnico)
+### 🎨 Frontend (Apoio)
 - React 18  
 - Next.js 14 (SSR/SSG)  
 - TypeScript  
 - Tailwind CSS  
-- Framer Motion  
+- Integração via Axios  
 
 </td>
 <td width="50%">
 
-### 🧠 Aprendizado Ativo
-- AWS re/Start (Cloud + Infra)  
-- Oracle ONE (Backend Java)  
-- Python para automação  
-- Boas práticas de engenharia  
-- Prompt Engineering  
+### 🧠 Soft Skills & Metodologias
+- Scrum & Agile  
+- Aprendizado Autodidata  
+- Comunicação Técnica  
+- Resolução de Problemas  
+- Inglês Profissional  
 </td>
 </tr>
 </table>
 
 </div>
 
----
+## 📊 Estatísticas do GitHub
 
-## 🛠️ Stack Tecnológica
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DessimA&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DessimA&theme=dracula" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DessimA&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DessimA&theme=dracula" />
+</p>
 
-### Linguagens & Frameworks
-![Java](https://img.shields.io/badge/Java_17+-B85042?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-A7BEAE?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-9D4EDD?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-A7BEAE?style=for-the-badge&logo=python&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF6B35?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0A66C2?style=for-the-badge&logo=docker&logoColor=white)
-![Github Actions](https://img.shields.io/badge/CI/CD-181717?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-B85042?style=for-the-badge&logo=linux&logoColor=white)
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B3D91?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-9D4EDD?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
 
 ## 🎓 Formação Acadêmica
 
 <div align="center">
 
-| Formação | Instituição | Período |
+| Formação | Instituição | Status |
 |---------|-------------|----------|
-| **Bacharelado em Sistemas de Informação** | IFCE | 2017–2025 |
-| **Especialização Backend Java + Spring** | Oracle ONE/Alura | Em andamento |
-| **AWS re/Start – Cloud Engineering** | Escola da Nuvem | Em andamento |
+| **Bacharelado em Sistemas de Informação** | IFCE | ✅ Concluído (Abr/2025) |
+| **Especialização Backend Java + Spring** | Oracle ONE/Alura | 🔄 Em andamento |
+| **AWS re/Start – Cloud Engineering** | Escola da Nuvem | 🔄 Em andamento |
 
 </div>
 
 ---
 
-## 🚀 Projetos Relevantes
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-### 🍽️ Sistema de Delivery – Backend  
-**Java 17 • Spring Boot • PostgreSQL**  
-Arquitetura limpa, RBAC com JWT, testes unitários, documentação clara.  
-[![GitHub](https://img.shields.io/badge/💻_Código-181717?style=flat-square)](https://github.com/dessima/delivery_system)
+### 🐳 API de Delivery - Migração para Microsserviços  
+**Java 17 • Spring Boot • Docker • AWS**  
+*Em refatoração:* Migração de arquitetura monolítica para microsserviços containerizados. Foco em desacoplamento, padronização de ambiente com Docker e preparação para orquestração.  
+[![GitHub](https://img.shields.io/badge/💻_Ver_Código-181717?style=flat-square&logo=github)](https://github.com/dessima/delivery_system)
+
+---
+
+### 🏦 Simulador Bancário (Clean Architecture)  
+**Java • Design Patterns • SOLID**  
+Aplicação focada puramente em engenharia de software, implementando princípios SOLID, camadas isoladas e testes unitários com JUnit.  
+[![GitHub](https://img.shields.io/badge/💻_Ver_Código-181717?style=flat-square&logo=github)](https://github.com/DessimA)
 
 ---
 
 ### 📄 Currículo Web Interativo  
-**Next.js 14 • Tailwind • Framer Motion**  
-Performance (SSR/SSG), SEO e acessibilidade.  
-[![Live](https://img.shields.io/badge/🌐_Ver_Online-FF6B35?style=flat-square)](https://dessima.github.io/meu_cv/)
-
----
-
-### 🛰️ Galeria NASA  
-**React • Context API • Axios**  
-Integração com múltiplas APIs e design responsivo.  
-[![Live](https://img.shields.io/badge/🌐_Ver_Online-0B3D91?style=flat-square)](https://dessima.github.io/NASA_Galery/)
+**Next.js 14 • TypeScript • Tailwind**  
+Portfólio pessoal com foco em performance (SSR), SEO e acessibilidade.  
+[![Live](https://img.shields.io/badge/🌐_Ver_Online-FF6B35?style=flat-square&logo=vercel)](https://meus-links-olive.vercel.app/)
 
 </div>
 
@@ -160,26 +159,27 @@ Integração com múltiplas APIs e design responsivo.
 ## 💼 Atuação Profissional que Busco
 
 ```yaml
-Posições:
-  - Backend Developer (Java/Spring)
-  - Cloud Developer (AWS)
-  - DevOps Engineer
+Cargo Alvo:
+  - Desenvolvedor Backend Júnior (Java)
+  - Cloud Associate / Analista de Cloud Júnior
 
-Pilares Técnicos:
-  - Arquitetura de APIs
-  - Cloud AWS para produção
-  - Ambientes padronizados com Docker
-  - CI/CD e automação
+O que trago para o time:
+  - Código limpo e testável
+  - Conhecimento prático em Docker e AWS
+  - Documentação técnica (Mermaid/Swagger)
+  - Vontade genuína de aprender e colaborar
 ```
+--- 
 
-### Pronto para transformar sua ideia em realidade?
+<div align="center">
 
-[![Entre em Contato](https://img.shields.io/badge/💬_Vamos_Conversar-B85042?style=for-the-badge&logoColor=white)](https://meus-links-olive.vercel.app/)
+🤝 Vamos construir algo incrível?
 
----
+![alt text](https://img.shields.io/badge/💬_Chamar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<sub>✨ Desenvolvedor apaixonado por código limpo, arquitetura sólida e café forte ☕</sub>
 
-![](https://komarev.com/ghpvc/?username=dessima&color=B85042&style=flat-square&label=Profile+Views)
+<sub>✨ Desenvolvedor movido a desafios, café e arquitetura de software.</sub>
+
+![alt text](https://komarev.com/ghpvc/?username=dessima&color=B85042&style=flat-square&label=Profile+Views)
 
 </div>
