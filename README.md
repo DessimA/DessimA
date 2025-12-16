@@ -79,7 +79,7 @@ Busco minha primeira oportunidade formal como **Desenvolvedor Júnior**, trazend
 
 ### 🎨 Frontend (Apoio)
 - React 18  
-- Next.js 14 (SSR/SSG)  
+- Next.js 16 (SSR/SSG)  
 - TypeScript  
 - Tailwind CSS  
 - Integração via Axios  
@@ -92,7 +92,7 @@ Busco minha primeira oportunidade formal como **Desenvolvedor Júnior**, trazend
 - Aprendizado Autodidata  
 - Comunicação Técnica  
 - Resolução de Problemas  
-- Inglês Profissional  
+- Inglês Técnico   
 </td>
 </tr>
 </table>
