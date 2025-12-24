@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🧔 José Anderson  
-### Desenvolvedor Backend Java Júnior | Cloud AWS | Arquitetura de Software
+### Desenvolvedor Backend Java | Cloud AWS | Arquitetura de Software
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=1000&color=B85042&center=true&vCenter=true&width=650&lines=Backend+Java+%7C+Spring+Boot;Cloud+Computing+%7C+AWS;Microsserviços+%7C+Docker;Soluções+Escaláveis+e+Bem+Projetadas" />
 
@@ -29,7 +29,7 @@ Diferente do padrão iniciante, meus estudos e projetos focam em **Engenharia de
 - ☁️ **Cloud Native:** Infraestrutura na AWS e automação com CI/CD.
 - 📐 **Qualidade:** Clean Architecture, SOLID e Testes Automatizados.
 
-Busco minha primeira oportunidade formal como **Desenvolvedor Júnior**, trazendo a maturidade técnica de quem documenta, testa e projeta antes de codificar.
+Busco minha primeira oportunidade formal como **Desenvolvedor **, trazendo a maturidade técnica de quem documenta, testa e projeta antes de codificar.
 
 ---
 
@@ -159,8 +159,8 @@ Portfólio pessoal com foco em performance (SSR), SEO e acessibilidade.
 
 ```yaml
 Cargo Alvo:
-  - Desenvolvedor Backend Júnior (Java)
-  - Cloud Associate / Analista de Cloud Júnior
+  - Desenvolvedor Backend  (Java)
+  - Cloud Associate / Analista de Cloud 
 
 O que trago para o time:
   - Código limpo e testável
