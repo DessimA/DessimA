@@ -147,7 +147,7 @@ Aplicação focada puramente em engenharia de software, implementando princípio
 ---
 
 ### 📄 Currículo Web Interativo  
-**Next.js 14 • TypeScript • Tailwind**  
+**Next.js 16 • TypeScript • Tailwind**  
 Portfólio pessoal com foco em performance (SSR), SEO e acessibilidade.  
 [![Live](https://img.shields.io/badge/🌐_Ver_Online-FF6B35?style=flat-square&logo=vercel)](https://meus-links-olive.vercel.app/)
 
