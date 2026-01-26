@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🃏 José Anderson  
+# 🃏 J. Anderson  
 ### Desenvolvedor Backend Java | Cloud AWS | Arquitetura de Software
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=1000&color=FF00FF&center=true&vCenter=true&width=650&lines=De+bugs+épicos+a+soluções+elegantes;Backend+Java+%7C+Spring+Boot+%7C+AWS;Microsserviços+que+realmente+funcionam;Código+limpo+não+é+acidente%2C+é+método" />
