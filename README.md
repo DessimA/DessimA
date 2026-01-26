@@ -1,4 +1,3 @@
-# J. Anderson
 **Desenvolvedor Backend Java | Spring Boot | AWS**
 
 [LinkedIn](https://linkedin.com/in/dev-dessima-jose-anderson-da-silva-costa/) | [GitHub](https://github.com/DessimA) | [Portfolio](https://jasc-dessima-dev.vercel.app/)
