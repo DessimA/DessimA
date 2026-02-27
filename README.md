@@ -5,7 +5,7 @@
 ---
 
 ## Sobre
-Desenvolvedor Backend com formação em Sistemas de Informação. Experiência em Java, Spring Boot e Cloud AWS. Procurando oportunidades como Desenvolvedor Backend Júnior.
+Desenvolvedor Backend com formação em Sistemas de Informação. Experiência em Java, Spring Boot e Cloud AWS. Procurando oportunidades como Desenvolvedor Backend.
 
 ---
 
