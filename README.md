@@ -5,7 +5,7 @@
 **Backend Developer Java | Spring Boot · Spring Security · REST APIs**
 **Serverless · Microservices · Terraform · Docker | AWS · OCI**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-jasc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dessima)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jasc-dessima-dev.vercel.app/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jose-anderson-da-silva-costa)
 
@@ -184,7 +184,7 @@ As ferramentas que aparecem nos projetos acima, organizadas por camada.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-jasc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dessima)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jasc-dessima-dev.vercel.app/)
 [![Credly](https://img.shields.io/badge/Ver_badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jose-anderson-da-silva-costa)
 
